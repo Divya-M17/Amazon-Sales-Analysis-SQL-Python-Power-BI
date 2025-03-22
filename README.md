@@ -3,7 +3,7 @@
 ## Project Overview  
 This project analyzes Amazon sales data using SQL to uncover key business insights, including revenue trends, customer behavior, product performance, discount impact, and forecasting. The analysis is performed using SQL techniques such as CTEs, subqueries, and window functions.
 
-## Key Insights & SQL Queries Used  
+## Key Insights 
 
 ## Revenue & Profit Analysis  
 - Total Sales & Profit Summary  
