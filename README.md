@@ -1,4 +1,4 @@
-# Amazon-Sales-Analysis-SQL Power BI Python
+# Amazon Sales Analysis-SQL, Power BI, Python
 
 ##  Project Overview  
 This project analyzes Amazon sales data using **SQL for data extraction & transformation**, **Power BI for interactive data visualization**, and **Python for data analysis & forecasting**. The goal is to uncover key business insights, including revenue trends, customer behavior, product performance, discount impact, and forecasting.
@@ -43,14 +43,6 @@ This project analyzes Amazon sales data using **SQL for data extraction & transf
 - **Pandas & NumPy** for data manipulation  
 - **Matplotlib & Seaborn** for data visualization  
 - **Scikit-learn** for forecasting & predictive analytics  
-
-## 📂 Repository Structure  
-📁 Amazon-Sales-Analysis/
-├── 📜 README.md  # Project Documentation
-├── 📂 SQL-Scripts/  # SQL queries used for analysis
-├── 📂 Data/  # (Optional) Sample dataset
-├── 📂 PowerBI-Dashboard/  # Power BI .pbix file & PDF report
-├── 📂 Python-Analysis/  # Jupyter notebooks for Python analysis
 
 ## Business Recommendations  
 - Increase stock of best-selling products based on monthly sales trends.
