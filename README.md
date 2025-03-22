@@ -50,11 +50,6 @@ This project analyzes Amazon sales data using **SQL for data extraction & transf
 - Monitor discounting strategies to avoid profit loss.  
 - Optimize shipping for slow-delivery products to enhance customer satisfaction.  
 
-## Next Steps  
-- **Data Visualization:** Convert SQL insights into dashboards (Tableau, Power BI).  
-- **Machine Learning:** Enhance predictive modeling with deep learning techniques.  
-- **Further SQL Optimization:** Implement indexing & query tuning for large datasets.  
-
 ## Conclusion  
 This project demonstrates expertise in **SQL for data analysis, Power BI for visualization, and Python for advanced analytics**
 
